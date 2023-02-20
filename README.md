@@ -4,13 +4,7 @@
 
 ![to-do list](https://i.postimg.cc/g0gkvcX5/to-do-list.gif)
 
-What can my app give you:
-
-It is page thanks which we can add new task to list.
-Write your task click the button and it is ready.
-We can mark which task is already done and we can remove from list.
-You can mark all tasks as done and hide done ones.
-This page help you to plan your time.
+This is a list of non-interactive quests that will be acquired soon.
 
 ### What technology I used:
 - convention BEM

@@ -2,7 +2,7 @@
 
 ## Demo:https://kluzera.github.io/to-do-list-react/
 
-![to-do list](https://i.postimg.cc/0jcfvwbn/to-do-list.gif)
+![to-do list]([https://i.postimg.cc/0jcfvwbn/to-do-list.gif](https://i.postimg.cc/g0gkvcX5/to-do-list.gif))
 
 What can my app give you:
 

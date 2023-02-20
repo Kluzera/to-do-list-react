@@ -1,14 +1,22 @@
 # Task list
 
-What can my app give you:
+## Demo:https://kluzera.github.io/to-do-list-react/
 
-It is page thanks which we can add new task to list.
-Write your task click the button and it is ready.
-We can mark which task is already done and we can remove from list.
-You can mark all tasks as done and hide done ones.
-This page help you to plan your time.
+![to-do list](https://i.postimg.cc/g0gkvcX5/to-do-list.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a list of non-interactive quests that will be acquired soon.
+
+### What technology I used:
+- convention BEM
+- using new features ee6+
+- javascript
+- css 
+- html
+- GitHub & GitPages
+- React
+- Create React App
+- Webpack
+- Babel
 
 ## Available Scripts
 

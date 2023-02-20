@@ -1,6 +1,9 @@
 # Task list
 
 ## Demo:https://kluzera.github.io/to-do-list-react/
+
+![to-do list](https://i.postimg.cc/0jcfvwbn/to-do-list.gif)
+
 What can my app give you:
 
 It is page thanks which we can add new task to list.

@@ -6,6 +6,7 @@ const Form = ({addNewTask}) => {
 
   const onFormSumbit = (event) => {
      event.preventDefault();
+     if(newTaskContent !== "")
      addNewTask(newTaskContent.trim());
      setNewTaskContent("");
   };
